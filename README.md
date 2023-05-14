@@ -1,4 +1,4 @@
-# Getting Started with bookie App
+# Getting Started with Bookie App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
